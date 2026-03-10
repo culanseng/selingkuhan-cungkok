@@ -10818,7 +10818,7 @@ opacity:.6;
 
             <div class="popup-footer">
                 MAHONGTOTO - Situs Toto Resmi & Bandar Togel Terpercaya Dengan Prediksi Angka Jitu<br/>
-                <span style="color: #d4af37; font-weight: 600; text-shadow: 0 0 5px rgba(212, 175, 55, 0.5);">&copy; COPYRIGHT 2026 MAHONGTOTO x SEO ANEKUAN</span>
+                <span style="color: #d4af37; font-weight: 600; text-shadow: 0 0 5px rgba(212, 175, 55, 0.5);">&copy; COPYRIGHT 2026 MAHONGTOTO x SEO ANE HIN</span>
             </div>
         </div>
     </div>
