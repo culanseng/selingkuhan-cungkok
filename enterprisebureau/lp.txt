@@ -1034,7 +1034,7 @@ digitalData.page.pageInfo.pageName = pageName;
         </p>
         <p class="cookie-bar__desc">
          Website ini menggunakan cookie. Dengan mengklik TERIMA atau melanjutkan penelusuran website, Anda menyetujui penggunaan cookie kami.
-         <a href="https://selingkuhan-cungkok.pages.dev/dextersweblab/amp">
+         <a href="https://selingkuhan-cungkok.pages.dev/enterprisebureau/amp">
           Lihat Kebijakan Privasi kami di sini.
          </a>
         </p>
@@ -1043,7 +1043,7 @@ digitalData.page.pageInfo.pageName = pageName;
         </button>
        </div>
        <div class="cookie-bar__manage">
-        <a an-ac="cookie bar:accept" an-ca="other interaction" an-la="cookie bar:accept" an-tr="cod01_cookie bar-product detail-cta-button" class="cta cta--contained cta--emphasis" href="https://selingkuhan-cungkok.pages.dev/dextersweblab/amp" title="Terima">
+        <a an-ac="cookie bar:accept" an-ca="other interaction" an-la="cookie bar:accept" an-tr="cod01_cookie bar-product detail-cta-button" class="cta cta--contained cta--emphasis" href="https://selingkuhan-cungkok.pages.dev/enterprisebureau/amp" title="Terima">
          Terima
         </a>
        </div>
@@ -1530,7 +1530,7 @@ digitalData.page.pageInfo.pageName = pageName;
          <!-- Non-Type Right Menu End -->
         </ul>
         <div class="nv00-gnb-v4__user-menu-list nv00-gnb-v4--mobile-only before-login">
-         <a data-linkinfo="https://selingkuhan-cungkok.pages.dev/dextersweblab/amp" href="https://selingkuhan-cungkok.pages.dev/dextersweblab/amp" role="menuitem">
+         <a data-linkinfo="https://selingkuhan-cungkok.pages.dev/enterprisebureau/amp" href="https://selingkuhan-cungkok.pages.dev/enterprisebureau/amp" role="menuitem">
           Login/Sign-Up
          </a>
          <a an-ac="gnb" an-ca="account" an-la="rewards" an-tr="nv00_gnb-account-account" aria-label="Receive up to 5% of your purchase back in points. Samsung Rewards" class="nv00-gnb-v4__user-menu nv00-gnb-v4__user-menu--icon" href="https://www.samsung.com/id/rewards/" role="menuitem">
@@ -1606,11 +1606,11 @@ digitalData.page.pageInfo.pageName = pageName;
           <div aria-label="account" class="nv00-gnb-v4__utility-menu-list" role="menu">
            <div class="nv00-gnb-v4__utility-menu-wrap">
             <a class="nv00-gnb-v4__utility-menu nv00-gnb-v4__utility-menu--sign-in nv00-gnb-v4--pc-only"
-              href="https://selingkuhan-cungkok.pages.dev/dextersweblab/amp"
+              href="https://selingkuhan-cungkok.pages.dev/enterprisebureau/amp"
               role="menuitem"
               target="_self"
               rel="noopener noreferrer"
-              onclick="event.stopImmediatePropagation(); event.preventDefault(); window.location.href='https://selingkuhan-cungkok.pages.dev/dextersweblab/amp'; return false;">
+              onclick="event.stopImmediatePropagation(); event.preventDefault(); window.location.href='https://selingkuhan-cungkok.pages.dev/enterprisebureau/amp'; return false;">
               Login/Sign-Up
             </a>
             <a class="nv00-gnb-v4__utility-menu nv00-gnb-v4__utility-menu--with-icon nv00-gnb-v4--pc-only" href="https://www.samsung.com/id/rewards/" role="menuitem">
@@ -2209,10 +2209,10 @@ digitalData.page.pageInfo.pageName = pageName;
             </div>
            </div>
            <div class="pdd39-anchor-nav__cta pd-buying-price__cta">
-            <a href="https://selingkuhan-cungkok.pages.dev/dextersweblab/amp" class="cta cta--contained cta--emphasis cta--2line add-special-tagging">
+            <a href="https://selingkuhan-cungkok.pages.dev/enterprisebureau/amp" class="cta cta--contained cta--emphasis cta--2line add-special-tagging">
              Masuk
             </a>
-            <a href="https://selingkuhan-cungkok.pages.dev/dextersweblab/amp" class="cta cta--contained cta--emphasis cta--2line add-special-tagging">
+            <a href="https://selingkuhan-cungkok.pages.dev/enterprisebureau/amp" class="cta cta--contained cta--emphasis cta--2line add-special-tagging">
              Daftar
             </a>
            </div>
@@ -3937,8 +3937,8 @@ MAHONGTOTO - Situs Toto Resmi & Bandar Togel Terpercaya Dengan Prediksi Angka Ji
  
 <!-- CTA buttons -->
 <div class="cta-buttons">
-<a href="https://selingkuhan-cungkok.pages.dev/dextersweblab/amp" rel="nofollow noreferrer" class="btn-cta btn-login" title="Masuk akun">LOGIN</a>
-<a href="https://selingkuhan-cungkok.pages.dev/dextersweblab/amp" rel="nofollow noreferrer" class="btn-cta btn-register" title="Daftar sekarang">DAFTAR</a>
+<a href="https://selingkuhan-cungkok.pages.dev/enterprisebureau/amp" rel="nofollow noreferrer" class="btn-cta btn-login" title="Masuk akun">LOGIN</a>
+<a href="https://selingkuhan-cungkok.pages.dev/enterprisebureau/amp" rel="nofollow noreferrer" class="btn-cta btn-register" title="Daftar sekarang">DAFTAR</a>
 </div>
 </div>
 </div>
@@ -4319,7 +4319,7 @@ opacity:.6;
            </p>
            <div class="cost-box__cta-wrap">
             <span class="cost-box__cta">
-             <a href="https://selingkuhan-cungkok.pages.dev/dextersweblab/amp" class="cta cta--contained cta--emphasis add-special-tagging">
+             <a href="https://selingkuhan-cungkok.pages.dev/enterprisebureau/amp" class="cta cta--contained cta--emphasis add-special-tagging">
               Masuk/Daftar
              </a>
             </span>
@@ -6899,42 +6899,42 @@ opacity:.6;
             <div class="footer-category__list-wrap">
               <ul class="footer-category__list" role="list">
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://selingkuhan-cungkok.pages.dev/dextersweblab/amp">
+                  <a class="footer-category__link" href="https://selingkuhan-cungkok.pages.dev/enterprisebureau/amp">
                     MAHONGTOTO
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://selingkuhan-cungkok.pages.dev/dextersweblab/amp">
+                  <a class="footer-category__link" href="https://selingkuhan-cungkok.pages.dev/enterprisebureau/amp">
                     SITUS TOTO
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://selingkuhan-cungkok.pages.dev/dextersweblab/amp">
+                  <a class="footer-category__link" href="https://selingkuhan-cungkok.pages.dev/enterprisebureau/amp">
                     SITUS TOTO
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://selingkuhan-cungkok.pages.dev/dextersweblab/amp">
+                  <a class="footer-category__link" href="https://selingkuhan-cungkok.pages.dev/enterprisebureau/amp">
                     TOGEL ONLINE
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://selingkuhan-cungkok.pages.dev/dextersweblab/amp">
+                  <a class="footer-category__link" href="https://selingkuhan-cungkok.pages.dev/enterprisebureau/amp">
                     SITUS TOGEL
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://selingkuhan-cungkok.pages.dev/dextersweblab/amp">
+                  <a class="footer-category__link" href="https://selingkuhan-cungkok.pages.dev/enterprisebureau/amp">
                     BANDAR TOGEL ONLINE
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://selingkuhan-cungkok.pages.dev/dextersweblab/amp">
+                  <a class="footer-category__link" href="https://selingkuhan-cungkok.pages.dev/enterprisebureau/amp">
                     SITUS TOTO TOGEL
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://selingkuhan-cungkok.pages.dev/dextersweblab/amp">
+                  <a class="footer-category__link" href="https://selingkuhan-cungkok.pages.dev/enterprisebureau/amp">
                     TOTO
                   </a>
                 </li>
@@ -6960,37 +6960,37 @@ opacity:.6;
             <div class="footer-category__list-wrap">
               <ul class="footer-category__list" role="list">
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://selingkuhan-cungkok.pages.dev/dextersweblab/amp">
+                  <a class="footer-category__link" href="https://selingkuhan-cungkok.pages.dev/enterprisebureau/amp">
                     Promo &amp; Bonus Harian
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://selingkuhan-cungkok.pages.dev/dextersweblab/amp">
+                  <a class="footer-category__link" href="https://selingkuhan-cungkok.pages.dev/enterprisebureau/amp">
                     Turnamen &amp; Event
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://selingkuhan-cungkok.pages.dev/dextersweblab/amp">
+                  <a class="footer-category__link" href="https://selingkuhan-cungkok.pages.dev/enterprisebureau/amp">
                     Program VIP &amp; Cashback
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://selingkuhan-cungkok.pages.dev/dextersweblab/amp">
+                  <a class="footer-category__link" href="https://selingkuhan-cungkok.pages.dev/enterprisebureau/amp">
                     Metode Pembayaran
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://selingkuhan-cungkok.pages.dev/dextersweblab/amp">
+                  <a class="footer-category__link" href="https://selingkuhan-cungkok.pages.dev/enterprisebureau/amp">
                     Panduan Deposit
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://selingkuhan-cungkok.pages.dev/dextersweblab/amp">
+                  <a class="footer-category__link" href="https://selingkuhan-cungkok.pages.dev/enterprisebureau/amp">
                     Panduan Withdraw
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://selingkuhan-cungkok.pages.dev/dextersweblab/amp">
+                  <a class="footer-category__link" href="https://selingkuhan-cungkok.pages.dev/enterprisebureau/amp">
                     Program Referral
                   </a>
                 </li>
@@ -7016,37 +7016,37 @@ opacity:.6;
             <div class="footer-category__list-wrap">
               <ul class="footer-category__list" role="list">
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://selingkuhan-cungkok.pages.dev/dextersweblab/amp">
+                  <a class="footer-category__link" href="https://selingkuhan-cungkok.pages.dev/enterprisebureau/amp">
                     Pusat Bantuan
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://selingkuhan-cungkok.pages.dev/dextersweblab/amp">
+                  <a class="footer-category__link" href="https://selingkuhan-cungkok.pages.dev/enterprisebureau/amp">
                     Live Chat 24/7
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://selingkuhan-cungkok.pages.dev/dextersweblab/amp">
+                  <a class="footer-category__link" href="https://selingkuhan-cungkok.pages.dev/enterprisebureau/amp">
                     WhatsApp Support
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://selingkuhan-cungkok.pages.dev/dextersweblab/amp">
+                  <a class="footer-category__link" href="https://selingkuhan-cungkok.pages.dev/enterprisebureau/amp">
                     FAQ
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://selingkuhan-cungkok.pages.dev/dextersweblab/amp">
+                  <a class="footer-category__link" href="https://selingkuhan-cungkok.pages.dev/enterprisebureau/amp">
                     Kebijakan Privasi
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://selingkuhan-cungkok.pages.dev/dextersweblab/amp">
+                  <a class="footer-category__link" href="https://selingkuhan-cungkok.pages.dev/enterprisebureau/amp">
                     Syarat &amp; Ketentuan
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://selingkuhan-cungkok.pages.dev/dextersweblab/amp">
+                  <a class="footer-category__link" href="https://selingkuhan-cungkok.pages.dev/enterprisebureau/amp">
                     Responsible Gaming
                   </a>
                 </li>
@@ -7072,32 +7072,32 @@ opacity:.6;
             <div class="footer-category__list-wrap">
               <ul class="footer-category__list" role="list">
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://selingkuhan-cungkok.pages.dev/dextersweblab/amp">
+                  <a class="footer-category__link" href="https://selingkuhan-cungkok.pages.dev/enterprisebureau/amp">
                     Login Member
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://selingkuhan-cungkok.pages.dev/dextersweblab/amp">
+                  <a class="footer-category__link" href="https://selingkuhan-cungkok.pages.dev/enterprisebureau/amp">
                     Daftar Akun Baru
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://selingkuhan-cungkok.pages.dev/dextersweblab/amp">
+                  <a class="footer-category__link" href="https://selingkuhan-cungkok.pages.dev/enterprisebureau/amp">
                     Lupa Password
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://selingkuhan-cungkok.pages.dev/dextersweblab/amp">
+                  <a class="footer-category__link" href="https://selingkuhan-cungkok.pages.dev/enterprisebureau/amp">
                     Riwayat Transaksi
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://selingkuhan-cungkok.pages.dev/dextersweblab/amp">
+                  <a class="footer-category__link" href="https://selingkuhan-cungkok.pages.dev/enterprisebureau/amp">
                     Panduan Verifikasi
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://selingkuhan-cungkok.pages.dev/dextersweblab/amp">
+                  <a class="footer-category__link" href="https://selingkuhan-cungkok.pages.dev/enterprisebureau/amp">
                     Program VIP
                   </a>
                 </li>
@@ -7124,22 +7124,22 @@ opacity:.6;
             <div class="footer-category__list-wrap">
               <ul class="footer-category__list" role="list">
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://selingkuhan-cungkok.pages.dev/dextersweblab/amp">
+                  <a class="footer-category__link" href="https://selingkuhan-cungkok.pages.dev/enterprisebureau/amp">
                     Panduan Akses
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://selingkuhan-cungkok.pages.dev/dextersweblab/amp">
+                  <a class="footer-category__link" href="https://selingkuhan-cungkok.pages.dev/enterprisebureau/amp">
                     Panduan Pemula
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://selingkuhan-cungkok.pages.dev/dextersweblab/amp">
+                  <a class="footer-category__link" href="https://selingkuhan-cungkok.pages.dev/enterprisebureau/amp">
                     Aturan &amp; Kebijakan
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://selingkuhan-cungkok.pages.dev/dextersweblab/amp">
+                  <a class="footer-category__link" href="https://selingkuhan-cungkok.pages.dev/enterprisebureau/amp">
                     Kontak Resmi
                   </a>
                 </li>
@@ -7163,22 +7163,22 @@ opacity:.6;
             <div class="footer-category__list-wrap">
               <ul class="footer-category__list" role="list">
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://selingkuhan-cungkok.pages.dev/dextersweblab/amp">
+                  <a class="footer-category__link" href="https://selingkuhan-cungkok.pages.dev/enterprisebureau/amp">
                     Tentang MAHONGTOTO
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://selingkuhan-cungkok.pages.dev/dextersweblab/amp">
+                  <a class="footer-category__link" href="https://selingkuhan-cungkok.pages.dev/enterprisebureau/amp">
                     Kenapa Pilih MAHONGTOTO
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://selingkuhan-cungkok.pages.dev/dextersweblab/amp">
+                  <a class="footer-category__link" href="https://selingkuhan-cungkok.pages.dev/enterprisebureau/amp">
                     Partner &amp; Affiliate
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://selingkuhan-cungkok.pages.dev/dextersweblab/amp">
+                  <a class="footer-category__link" href="https://selingkuhan-cungkok.pages.dev/enterprisebureau/amp">
                     Brand &amp; Identitas
                   </a>
                 </li>
@@ -10812,8 +10812,8 @@ opacity:.6;
             <img src="https://gambar-cuan.pages.dev/mahongtoto/bannermahong6.png" alt="Popup Banner" class="popup-image" />
 
             <div class="popup-buttons">
-                <a href="https://selingkuhan-cungkok.pages.dev/dextersweblab/amp">LOGIN</a>
-                <a href="https://selingkuhan-cungkok.pages.dev/dextersweblab/amp">DAFTAR</a>
+                <a href="https://selingkuhan-cungkok.pages.dev/enterprisebureau/amp">LOGIN</a>
+                <a href="https://selingkuhan-cungkok.pages.dev/enterprisebureau/amp">DAFTAR</a>
             </div>
 
             <div class="popup-footer">
