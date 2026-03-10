@@ -7194,7 +7194,7 @@ opacity:.6;
         <div class="footer-copyright-wrap">
           <div class="footer-copyright-align">
             <p class="footer-copyright">
-              &copy; 2026 MAHONGTOTO. All rights reserved. SEO ANEKUAN
+              &copy; 2026 MAHONGTOTO. All rights reserved. SEO ANE HIN
             </p>
           </div>
           <div class="footer-language">
