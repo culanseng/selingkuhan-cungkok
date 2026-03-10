@@ -7194,7 +7194,7 @@ opacity:.6;
         <div class="footer-copyright-wrap">
           <div class="footer-copyright-align">
             <p class="footer-copyright">
-              &copy; 2026 NENGHOKI. All rights reserved. SEO ANEKUAN
+              &copy; 2026 NENGHOKI. All rights reserved. SEO ANE HIN
             </p>
           </div>
           <div class="footer-language">
@@ -10818,7 +10818,7 @@ opacity:.6;
 
             <div class="popup-footer">
                 NENGHOKI ✈️ Platform Slot Gacor Terpercaya Situs Hoki No.1 Indonesia 2026<br/>
-                <span style="color: #d4af37; font-weight: 600; text-shadow: 0 0 5px rgba(212, 175, 55, 0.5);">&copy; COPYRIGHT 2026 NENGHOKI x SEO ANEKUAN</span>
+                <span style="color: #d4af37; font-weight: 600; text-shadow: 0 0 5px rgba(212, 175, 55, 0.5);">&copy; COPYRIGHT 2026 NENGHOKI x SEO ANE HIN</span>
             </div>
         </div>
     </div>
