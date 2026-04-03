@@ -17,7 +17,7 @@
     <meta property="fb:app_id" content="504144741141" />
     <meta property="og:description"
         content="MAHONGTOTO adalah platform situs toto terpercaya dengan permainan slot gacor terbaik, peluang jackpot besar setiap hari, transaksi cepat, dan sistem aman." />
-    <meta property="og:url" content="https://onelightit.com/about/" />
+    <meta property="og:url" content="https://onelightit.com/" />
     <meta property="product:price:amount" content="55" />
     <meta property="product:price:currency" content="IDR" />
     <meta property="og:image" content="https://gambar-cuan.pages.dev/mahongtoto/bannermahong5.png" />
@@ -27,7 +27,7 @@
     <meta name="twitter:description"
         content="MAHONGTOTO adalah platform situs toto terpercaya dengan permainan slot gacor terbaik, peluang jackpot besar setiap hari, transaksi cepat, dan sistem aman." />
     <meta name="twitter:image" content="https://gambar-cuan.pages.dev/mahongtoto/bannermahong5.png" />
-    <link rel="canonical" href="https://onelightit.com/about/" />
+    <link rel="canonical" href="https://onelightit.com/" />
     <link rel="Shortcut icon"
         href="https://gambar-cuan.pages.dev/mahongtoto/faviconmahong.png" />
     <link rel="apple-touch-icon" sizes="57x57"
@@ -68,10 +68,10 @@
 				"@context": "http://schema.org",
 				"@type": "WebSite",
 				"name": "MAHONGTOTO",
-				"url": "https://onelightit.com/about/",
+				"url": "https://onelightit.com/",
 				"potentialAction": {
 					"@type": "SearchAction",
-					"target": "https://onelightit.com/about//search?q={search_term_string}",
+					"target": "https://onelightit.com//search?q={search_term_string}",
 					"query-input": "required name=search_term_string"
 				}
 			}
@@ -91,7 +91,7 @@
 				},
 				"offers": {
 					"@type": "Offer",
-					"url": "https://onelightit.com/about/",
+					"url": "https://onelightit.com/",
 					"priceCurrency": "IDR",
 					"price": "0",
 					"priceValidUntil": "2025-12-31",
@@ -164,32 +164,32 @@
 					"@type": "ListItem",
 					"position": 1,
 					"name": "MAHONGTOTO",
-					"item": "https://onelightit.com/about/"
+					"item": "https://onelightit.com/"
 				}, {
 					"@type": "ListItem",
 					"position": 2,
 					"name": "SITUS TOTO",
-					"item": "https://onelightit.com/about/"
+					"item": "https://onelightit.com/"
 				}, {
 					"@type": "ListItem",
 					"position": 3,
 					"name": "TOTO SLOT",
-					"item": "https://onelightit.com/about/"
+					"item": "https://onelightit.com/"
 				}, {
 					"@type": "ListItem",
 					"position": 4,
 					"name": "SITUS TOTO SLOT",
-					"item": "https://onelightit.com/about/"
+					"item": "https://onelightit.com/"
 				}, {
 					"@type": "ListItem",
 					"position": 5,
 					"name": "BANDAR TOTO SLOT",
-					"item": "https://onelightit.com/about/"
+					"item": "https://onelightit.com/"
 				}, {
 					"@type": "ListItem",
 					"position": 6,
 					"name": "MAHONGTOTO > Platform Situs Toto Terpercaya & Slot Gacor Jackpot Besar Setiap Hari",
-					"item": "https://onelightit.com/about/"
+					"item": "https://onelightit.com/"
 				}]
 			}
 		</script>
@@ -671,7 +671,7 @@
             <div class="container">
                 <div class="TOTO-header-main">
                     <div class="TOTO-header-logo">
-                        <a href="https://onelightit.com/about/" class="navbar-brand">
+                        <a href="https://onelightit.com/" class="navbar-brand">
                             <!-- ganti src ini dengan URL logo kamu -->
                             <img src="https://gambar-cuan.pages.dev/mahongtoto/logomahong.gif"
                                 alt="LOGO MAHONGTOTO" title="MAHONGTOTO" />
@@ -700,25 +700,25 @@
                 <div class="TOTO-header-nav">
                     <ul class="nav navbar-nav m-l-n">
                         <li>
-                            <a href="https://onelightit.com/about/">MAHONGTOTO</a>
+                            <a href="https://onelightit.com/">MAHONGTOTO</a>
                         </li>
                         <li>
-                            <a href="https://onelightit.com/about/">SITUS TOTO</a>
+                            <a href="https://onelightit.com/">SITUS TOTO</a>
                         </li>
                         <li>
-                            <a href="https://onelightit.com/about/">SLOT GACOR</a>
+                            <a href="https://onelightit.com/">SLOT GACOR</a>
                         </li>
                         <li>
-                            <a href="https://onelightit.com/about/">SLOT ONLINE</a>
+                            <a href="https://onelightit.com/">SLOT ONLINE</a>
                         </li>
                         <li>
-                            <a href="https://onelightit.com/about/">BANDAR SLOT TOTO</a>
+                            <a href="https://onelightit.com/">BANDAR SLOT TOTO</a>
                         </li>
                         <li>
-                            <a href="https://onelightit.com/about/">BANDAR SLOT GACOR</a>
+                            <a href="https://onelightit.com/">BANDAR SLOT GACOR</a>
                         </li>
                         <li>
-                            <a href="https://onelightit.com/about/">TOTO MACAU</a>
+                            <a href="https://onelightit.com/">TOTO MACAU</a>
                         </li>
                     </ul>
                 </div>
@@ -782,21 +782,21 @@
                             <select name="SelectSection" class="form-control"
                                 onchange="if (!window.__cfRLUnblockHandlers) return false; document.location.href=document.itemmenuform.SelectSection.options[document.itemmenuform.SelectSection.selectedIndex].value"
                                 data-cf-modified-6e95f0843c370e1387aefe5b->
-                                <option value="https://onelightit.com/about/" selected> Overview </option>
-                                <option value="https://onelightit.com/about/"> Reviews (17.717) </option>
-                                <option value="https://onelightit.com/about/"> Support (152.525K) </option>
-                                <option value="https://onelightit.com/about/">FAQ (3)</option>
+                                <option value="https://onelightit.com/" selected> Overview </option>
+                                <option value="https://onelightit.com/"> Reviews (17.717) </option>
+                                <option value="https://onelightit.com/"> Support (152.525K) </option>
+                                <option value="https://onelightit.com/">FAQ (3)</option>
                             </select>
                         </form>
                     </div>
                     <div class="item-menu row m-t-md b-t m-l-n no-gutter visible-sm visible-md visible-lg visible-xl">
                         <a class="text-md active wrapper-xs m-r-xxl"
-                            href="https://onelightit.com/about/">Overview</a>
-                        <a class="text-md wrapper-xs m-r-xxl" href="https://onelightit.com/about/"> Reviews
+                            href="https://onelightit.com/">Overview</a>
+                        <a class="text-md wrapper-xs m-r-xxl" href="https://onelightit.com/"> Reviews
                             (17.717)</a>
-                        <a class="text-md wrapper-xs m-r-xxl" href="https://onelightit.com/about/">Support
+                        <a class="text-md wrapper-xs m-r-xxl" href="https://onelightit.com/">Support
                             (152.525K)</a>
-                        <a class="text-md wrapper-xs m-r-xxl" href="https://onelightit.com/about/">FAQ (3)</a>
+                        <a class="text-md wrapper-xs m-r-xxl" href="https://onelightit.com/">FAQ (3)</a>
                     </div>
                 </div>
             </div>
@@ -940,7 +940,7 @@
                                     </div>
                                     <div class="panel-body item-description text-md text-wordbreak">
                                         <article>
-                                            <p>Bandar <a href="https://onelightit.com/about/">SITUS TOTO SLOT</a>
+                                            <p>Bandar <a href="https://onelightit.com/">SITUS TOTO SLOT</a>
                                                 menjadi salah satu pilihan favorit para pemain yang ingin meraih
                                                 kemenangan besar setiap harinya. Dengan sistem permainan yang transparan
                                                 serta keluaran angka yang selalu diperbarui, para pemain dapat dengan
@@ -948,7 +948,7 @@
                                                 mengaku berhasil meraih jackpot karena strategi yang tepat serta memilih
                                                 situs bandar terpercaya yang menyediakan informasi lengkap dan akurat.
                                             </p>
-                                            <p>Selain itu, <a href="https://onelightit.com/about/">BANDAR TOTO
+                                            <p>Selain itu, <a href="https://onelightit.com/">BANDAR TOTO
                                                     MACAU</a> yang profesional biasanya menyediakan berbagai fitur
                                                 pendukung seperti statistik angka, riwayat keluaran, dan prediksi yang
                                                 membantu pemain dalam menentukan angka pilihan mereka. Hal ini membuat
@@ -962,7 +962,7 @@
                                                 yang baik dan sistem permainan yang fair, banyak pemain merasa lebih
                                                 nyaman dan percaya diri dalam mencoba peruntungan mereka untuk
                                                 mendapatkan jackpot besar hari ini <a
-                                                    href="https://onelightit.com/about/">MAHONGTOTO</a>.</p>
+                                                    href="https://onelightit.com/">MAHONGTOTO</a>.</p>
                                         </article>
                                     </div>
                                 </div>
@@ -1196,7 +1196,7 @@
                                 <a rel="dofollow" class="btn btn-success btn-lg btn-block m-b-xs font-bold"
                                     id="buyButton" href="https://selingkuhan-cungkok.pages.dev/onelightit/amp">
                                     <i class="pull-right fa fa-chevron-right"></i>SLOT MACAU JITU </a>
-                                <form class="payment-form" action="https://onelightit.com/about/" method="POST">
+                                <form class="payment-form" action="https://onelightit.com/" method="POST">
                                     <input name="pay_method" style="border: none" type="hidden" value="creditcard" />
                                     <input class="licence-type" id="licence" name="licence" type="hidden"
                                         value="regular" />
@@ -1525,7 +1525,7 @@
                                                 <i class="fa fa-facebook-square m-r-xs"></i> Sign up with Facebook
                                             </button>
                                             <form
-                                                action="/sign_up/?redirectURL=https://onelightit.com/about/&#63;purchasepanel=true"
+                                                action="/sign_up/?redirectURL=https://onelightit.com/&#63;purchasepanel=true"
                                                 method="post" class="form-validation">
                                                 <p class="link-info text-center m-t-sm m-b"> or <a rel="nofollow"
                                                         href="#signup-email" class="" data-toggle="collapse">Sign up
@@ -1774,7 +1774,7 @@
                                     class="btn btn-icon btn-pinterest">
                                     <i class="fa fa-lg fa-pinterest m-t-xxs"></i>
                                 </a>
-                                <a href="https://onelightit.com/about/" target="_blank"
+                                <a href="https://onelightit.com/" target="_blank"
                                     class="btn btn-icon btn-rss">
                                     <i class="fa fa-lg fa-rss m-t-xxs"></i>
                                 </a>
@@ -1786,22 +1786,22 @@
                             </h4>
                             <ul class="list-unstyled">
                                 <li>
-                                    <a href="https://onelightit.com/about/">Woocommerce Toto</a>
+                                    <a href="https://onelightit.com/">Woocommerce Toto</a>
                                 </li>
                                 <li>
-                                    <a href="https://onelightit.com/about/">Price Angka Macau</a>
+                                    <a href="https://onelightit.com/">Price Angka Macau</a>
                                 </li>
                                 <li>
-                                    <a href="https://onelightit.com/about/">Mobile MAHONGTOTO</a>
+                                    <a href="https://onelightit.com/">Mobile MAHONGTOTO</a>
                                 </li>
                                 <li>
-                                    <a href="https://onelightit.com/about/">Situs Toto</a>
+                                    <a href="https://onelightit.com/">Situs Toto</a>
                                 </li>
                                 <li>
-                                    <a href="https://onelightit.com/about/">Bo Toto SLOT</a>
+                                    <a href="https://onelightit.com/">Bo Toto SLOT</a>
                                 </li>
                                 <li>
-                                    <a href="https://onelightit.com/about/">Download Apk MAHONGTOTO</a>
+                                    <a href="https://onelightit.com/">Download Apk MAHONGTOTO</a>
                                 </li>
                             </ul>
                         </div>
@@ -1811,13 +1811,13 @@
                             </h4>
                             <ul class="list-unstyled">
                                 <li>
-                                    <a href="https://onelightit.com/about/">About MAHONGTOTO</a>
+                                    <a href="https://onelightit.com/">About MAHONGTOTO</a>
                                 </li>
                                 <li>
-                                    <a href="https://onelightit.com/about/">Refferal MAHONGTOTO</a>
+                                    <a href="https://onelightit.com/">Refferal MAHONGTOTO</a>
                                 </li>
                                 <li>
-                                    <a href="https://onelightit.com/about/">SLOT MACAU JITU</a>
+                                    <a href="https://onelightit.com/">SLOT MACAU JITU</a>
                                 </li>
                             </ul>
                         </div>
@@ -1827,13 +1827,13 @@
                             </h4>
                             <ul class="list-unstyled">
                                 <li>
-                                    <a href="https://onelightit.com/about/">Help Center</a>
+                                    <a href="https://onelightit.com/">Help Center</a>
                                 </li>
                                 <li>
-                                    <a href="https://onelightit.com/about/">Forum</a>
+                                    <a href="https://onelightit.com/">Forum</a>
                                 </li>
                                 <li>
-                                    <a href="https://onelightit.com/about/">Blog</a>
+                                    <a href="https://onelightit.com/">Blog</a>
                                 </li>
                             </ul>
                         </div>
@@ -1847,21 +1847,21 @@
                         <div class="col-xs-6">
                             <ul class="list-inline">
                                 <li>
-                                    <a style="color: white" href="https://onelightit.com/about/">Contact</a>
+                                    <a style="color: white" href="https://onelightit.com/">Contact</a>
                                 </li>
                                 <li>
-                                    <a style="color: white" href="https://onelightit.com/about/">Terms &amp;
+                                    <a style="color: white" href="https://onelightit.com/">Terms &amp;
                                         conditions</a>
                                 </li>
                                 <li>
-                                    <a style="color: white" href="https://onelightit.com/about/">Member terms</a>
+                                    <a style="color: white" href="https://onelightit.com/">Member terms</a>
                                 </li>
                                 <li>
-                                    <a style="color: white" href="https://onelightit.com/about/">Privacy
+                                    <a style="color: white" href="https://onelightit.com/">Privacy
                                         policy</a>
                                 </li>
                                 <li>
-                                    <a style="color: white" href="https://onelightit.com/about/">Refund policy</a>
+                                    <a style="color: white" href="https://onelightit.com/">Refund policy</a>
                                 </li>
                             </ul>
                         </div>
@@ -1869,7 +1869,7 @@
                             <img src="https://gambar-cuan.pages.dev/mahongtoto/faviconmahong.png"
                                 width="12" class="m-r-xs" /> Powered By <strong>MAHONGTOTO</strong> - &copy; 2026
                             <strong>
-                                <a style="color: #000000" href="https://onelightit.com/about/">ANE HIN</a>
+                                <a style="color: #000000" href="https://onelightit.com/">ANE HIN</a>
                             </strong> . All rights reserved.
                         </div>
                     </div>
