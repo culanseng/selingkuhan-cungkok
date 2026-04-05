@@ -698,7 +698,7 @@ digitalData.page.pageInfo.pageName = pageName;
         "@id": "https://dextersweblab.com/#organization",
         "name": "NENGHOKI",
         "url": "https://dextersweblab.com/",
-        "logo": "https://gambar-cuan.pages.dev/nenghoki/logoneng.gif",
+        "logo": "https://gambar-cuan.pages.dev/nenghoki/logoneneng.gif",
         "sameAs": [
           "https://facebook.com/NENGHOKI",
           "https://instagram.com/NENGHOKI",
@@ -1129,7 +1129,7 @@ digitalData.page.pageInfo.pageName = pageName;
      <div class="nv00-gnb-v4__inner">
       <div class="nv00-gnb-v4__header">
        <a an-ac="gnb" an-ca="navigation" an-la="samsung" an-tr="nv00_gnb-product detail-l0-navigation2" aria-label="Samsung" class="nv00-gnb-v4__logo" href="https://dextersweblab.com/">
-        <img src="https://gambar-cuan.pages.dev/nenghoki/logoneng.gif" alt="" width="130" height="50"/>
+        <img src="https://gambar-cuan.pages.dev/nenghoki/logoneneng.gif" alt="" width="130" height="50"/>
        </a>
        <div class="nv00-gnb-v4__utility-list nv00-gnb-v4--mobile-only">
         <button an-ac="gnb" an-ca="navigation" an-la="search" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__utility nv00-gnb-v4__utility-search gnb__search-btn-js" data-js-action="search">
